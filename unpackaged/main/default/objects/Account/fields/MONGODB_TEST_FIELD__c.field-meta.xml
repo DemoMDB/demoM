@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Hotfix_on_Case_object__c</fullName>
+    <fullName>MONGODB_TEST_FIELD__c</fullName>
     <defaultValue>false</defaultValue>
     <externalId>false</externalId>
-    <label>Hotfix on Case object</label>
+    <label>MONGODB_TEST_FIELD</label>
     <trackFeedHistory>false</trackFeedHistory>
-    <trackHistory>false</trackHistory>
-    <trackTrending>false</trackTrending>
     <type>Checkbox</type>
 </CustomField>
