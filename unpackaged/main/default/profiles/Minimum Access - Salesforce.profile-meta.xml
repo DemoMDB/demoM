@@ -108,7 +108,7 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Case.Hotfix_on_Case_object__c</field>
+        <field>Account.MONGODB_TEST_FIELD__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
