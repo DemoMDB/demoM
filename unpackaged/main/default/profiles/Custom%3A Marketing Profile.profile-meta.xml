@@ -323,6 +323,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Contact.Hotfix_on_contact_object__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>ContactPointConsent.ContactPointTypeConsentId</field>
         <readable>true</readable>
     </fieldPermissions>
