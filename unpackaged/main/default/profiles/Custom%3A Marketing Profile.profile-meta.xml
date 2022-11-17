@@ -128,12 +128,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.Service_demo_field__c</field>
+        <field>Account.SalesDemoField__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.SalesDemoField__c</field>
+        <field>Account.Service_demo_field__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
