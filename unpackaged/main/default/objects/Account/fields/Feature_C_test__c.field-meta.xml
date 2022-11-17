@@ -2,6 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Feature_C_test__c</fullName>
     <defaultValue>false</defaultValue>
+    <description>THIS IS A LOCK TEST</description>
     <externalId>false</externalId>
     <label>Feature_C_test</label>
     <trackFeedHistory>false</trackFeedHistory>
